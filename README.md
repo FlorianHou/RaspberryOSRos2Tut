@@ -1,5 +1,10 @@
 # Ros2 Humble Build
 This Tutorial is based of [ROS 2 Documentation: HumbleLogo](https://docs.ros.org/en/humble/Installation/Alternatives/Ubuntu-Development-Setup.html#try-some-examples)
+| Name   	| Version  	|
+|--------	|----------	|
+| Debian 	| Bullseye 	|
+| ROS2   	| Humble   	|
+
 
 ## System setup
 
