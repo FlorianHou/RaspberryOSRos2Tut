@@ -106,6 +106,7 @@ mkdir build && cd build
 cmake ..
 sudo make install
 ```
+Don't follow the **Prepare for Installing** on the github of math6. After Pull from github just compile math6 directly.
 
 ```shell
 # math6
